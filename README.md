@@ -1,6 +1,8 @@
 # Dice-Game
 A simple dice roll game played between two players!
 
+Refresh the page to roll the dice again
+
 **Dice Game** -> [Link](https://shivam-dhyani.github.io/Dice-Game/)
 
 When Player 1 Wins the Game 👇
