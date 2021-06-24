@@ -14,7 +14,7 @@ When Player 2 Wins the Game 👇
 ![image](https://user-images.githubusercontent.com/69079491/123255458-7dfdac80-d50d-11eb-9463-b1f8101cd2ec.png)
 
 
-When there is Draw between two players the Game 👇
+When there is Draw between two players in the Game 👇
 
 ![image](https://user-images.githubusercontent.com/69079491/123255483-88b84180-d50d-11eb-84d4-d208c9449a74.png)
 
